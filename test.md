@@ -1,5 +1,5 @@
 [TOC]
 
-1. One
+## One
 
-2. Two
+## Two
