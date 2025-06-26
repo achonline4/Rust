@@ -1,5 +1,7 @@
 # Rust
 
+[TOC]
+
 ##### References - Books / Links
 
 | S.No | Reference                                                                                                    | Remarks                                                                                                                                 |
