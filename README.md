@@ -31,7 +31,7 @@ Following is a snapshot of error mismatched types and the second last line tells
 
 And following is what that explanation looks like - 
 
-![](/home/abhishek/snap/marktext/9/.config/marktext/images/2025-07-01-16-30-23-Screenshot%20from%202025-06-27%2005-45-42.png)
+![](/home/abhishek/Pictures/Screenshots/a.png)
 
 Random
 
