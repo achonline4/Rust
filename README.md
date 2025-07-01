@@ -22,8 +22,6 @@
 | 8.   | mut                   | A keyword which tells the compiler that the data can be modified. You can modify data either using the variable or a reference to that variable but in each case you need to tell the compiler explicitly about your intent of modifying it.<br/><br/>Eg:<br/>let mut guess;  // declare a modifiable variable named **guess**.<br/>read_line(&mut guess) // the same variable being passed to a function called **read_line** which is expected to modify the value using a reference to the variable. |
 | 9.   | the prelude           | Its a set of symbols Rust automatically brings into scope from the standard library which get used in almost every program.                                                                                                                                                                                                                                                                                                                                                                             |
 
-
-
 ##### rustc - rust cool or rust compiler :)
 
 Rust compiler enumerates every single error it throws and you can find more details about those using the compiler itself.
@@ -31,11 +29,11 @@ Following is a snapshot of error mismatched types and the second last line tells
 
 ![](/home/abhishek/Pictures/Screenshots/Screenshot%20from%202025-06-27%2005-20-18.png)
 
+
+
 And following is what that explanation looks like - 
 
 ![](/home/abhishek/Pictures/Screenshots/Screenshot%20from%202025-06-27%2005-45-42.png)
-
-
 
 Random
 
