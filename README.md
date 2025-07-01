@@ -27,11 +27,11 @@
 Rust compiler enumerates every single error it throws and you can find more details about those using the compiler itself.
 Following is a snapshot of error mismatched types and the second last line tells you how you can find more details about it.
 
-![](/home/abhishek/Pictures/Screenshots/Screenshot%20from%202025-06-27%2005-20-18.png)
+![](./readmeimages/b.png)
 
 And following is what that explanation looks like - 
 
-![](/home/abhishek/Pictures/Screenshots/a.png)
+![](readmeimages/a.png)
 
 Random
 
